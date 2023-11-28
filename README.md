@@ -21,6 +21,9 @@
 ![Screenshot 2023-11-28 155741](https://github.com/Nishanth-018/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/149347651/9b993eba-f924-44b5-b2c3-12bd9f83bbfb)
 
 ## Output:
+![Screenshot 2023-11-28 155641](https://github.com/Nishanth-018/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/149347651/9b78ca1b-6e21-4935-b3d9-0102ecf0a4bc)
+![Screenshot 2023-11-28 155703](https://github.com/Nishanth-018/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/149347651/c1860e8e-8643-4fc3-8735-e78a108e8ade)
+![Screenshot 2023-11-28 155741](https://github.com/Nishanth-018/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/149347651/47ecbc57-54f5-4ade-aaf3-6802afeadfff)
 
 ### Name:Nishanth J
 ### Register Number:23007929
